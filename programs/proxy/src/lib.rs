@@ -3,7 +3,7 @@ use cpipda::cpi::accounts::CreateUserSocials;
 use cpipda::program::Cpipda;
 use cpipda::{self, UserInfo};
 
-declare_id!("HmbTLCmaGvZhKnn1Zfa1JVnp7vkMV4DYVxPLWBVoN65L");
+declare_id!("HKbTE9zSwQFx1vaXGxSe7EyFqdrmVyiEyeeuLWVwPo7W");
 
 #[program]
 mod proxy {

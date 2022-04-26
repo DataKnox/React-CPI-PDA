@@ -1,8 +1,8 @@
 [features]
 seeds = false
 [programs.localnet]
-cpipda = "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS"
-proxy = "HmbTLCmaGvZhKnn1Zfa1JVnp7vkMV4DYVxPLWBVoN65L"
+cpipda = "6UBeznVw8PWyhVPa9Sk99nMTR8C5GUt2k535ov4Pqvfg"
+proxy = "HKbTE9zSwQFx1vaXGxSe7EyFqdrmVyiEyeeuLWVwPo7W"
 [registry]
 url = "https://anchor.projectserum.com"
 
