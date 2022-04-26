@@ -1,0 +1,43 @@
+{
+  "version": "0.1.0",
+  "name": "proxy",
+  "instructions": [
+    {
+      "name": "updateSocials",
+      "accounts": [
+        {
+          "name": "user",
+          "isMut": true,
+          "isSigner": true
+        },
+        {
+          "name": "userSocials",
+          "isMut": true,
+          "isSigner": false
+        },
+        {
+          "name": "cpipdaProgram",
+          "isMut": false,
+          "isSigner": false
+        }
+      ],
+      "args": [
+        {
+          "name": "name",
+          "type": "string"
+        },
+        {
+          "name": "twitter",
+          "type": "string"
+        },
+        {
+          "name": "discord",
+          "type": "string"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "address": "HmbTLCmaGvZhKnn1Zfa1JVnp7vkMV4DYVxPLWBVoN65L"
+  }
+}
